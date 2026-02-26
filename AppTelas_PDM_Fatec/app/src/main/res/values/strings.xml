@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppTelas_PDM_Fatec</string>
+
+    <!--String para conter o elemento-->
+    <string name="info_main">Essa é a Tela Principal do nosso App!</string>
+    <string name="avanca_tela">Avança para a tela secundária</string>
+
+    <string name="info_second">Olá, %s!</string>
+</resources>
